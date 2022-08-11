@@ -1,0 +1,14 @@
+.share-btn > a {
+    border: 1px solid #cbcbcb;
+    padding: 5px;
+    font-size: 12px;
+    font-family: Verdana, Arial;
+    margin-bottom: 5px;
+    display: inline-block;
+    white-space: nowrap;
+    background-color: white;
+    border-radius: 2px;
+}
+.share-btn > a:hover {
+    cursor: pointer;
+}
